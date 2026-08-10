@@ -7,7 +7,7 @@
   window.setTimeout(() => {
     boot?.classList.add("is-done");
     body.classList.remove("is-booting");
-  }, 1050);
+  }, 1750);
 
   // A very subtle "signal sweep" after the intro.
   window.setTimeout(() => {
