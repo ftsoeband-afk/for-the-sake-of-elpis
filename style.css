@@ -72,7 +72,7 @@ a {
   pointer-events: none;
   user-select: none;
   mix-blend-mode: screen;
-  animation: watermark-breathe 8s ease-in-out infinite;
+  animation: watermark-breathe 7s ease-in-out infinite;
 }
 
 .hero {
