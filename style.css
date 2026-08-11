@@ -367,8 +367,8 @@ a {
 }
 
 @keyframes watermark-breathe {
-  0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: .045; }
-  50% { transform: translate(-50%, -50%) scale(1.025); opacity: .075; }
+  0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: .035; }
+  50% { transform: translate(-50%, -50%) scale(1.025); opacity: .085; }
 }
 
 @keyframes boot-small {
