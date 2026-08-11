@@ -400,7 +400,7 @@ a {
 
   .watermark {
     width: min(118vw, 620px);
-    opacity: .50;
+    opacity: .20;
   }
 
   .title {
