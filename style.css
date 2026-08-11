@@ -67,7 +67,7 @@ a {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%) scale(1);
-  opacity: .35;
+  opacity: .45;
   filter: blur(.15px);
   pointer-events: none;
   user-select: none;
@@ -400,7 +400,7 @@ a {
 
   .watermark {
     width: min(118vw, 620px);
-    opacity: .35;
+    opacity: .45;
   }
 
   .title {
