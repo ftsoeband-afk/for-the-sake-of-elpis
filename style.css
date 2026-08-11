@@ -67,7 +67,7 @@ a {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%) scale(1);
-  opacity: .2;
+  opacity: .1;
   filter: blur(.15px);
   pointer-events: none;
   user-select: none;
@@ -367,8 +367,8 @@ a {
 }
 
 @keyframes watermark-breathe {
-  0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: .2; }
-  50% { transform: translate(-50%, -50%) scale(1.025); opacity: .3; }
+  0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: .1; }
+  50% { transform: translate(-50%, -50%) scale(1.025); opacity: .2; }
 }
 
 @keyframes boot-small {
@@ -400,7 +400,7 @@ a {
 
   .watermark {
     width: min(118vw, 620px);
-    opacity: .2;
+    opacity: .1;
   }
 
   .title {
